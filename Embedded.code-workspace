@@ -1,0 +1,122 @@
+{
+	"folders": [
+		{
+			"path": "Projects"
+		},
+		{
+			"name": "Week1",
+			"path": "Projects/Week1"
+		},
+		{
+			"name": "LEDLibrary",
+			"path": "Projects/LEDLibrary"
+		},
+		{
+			"name": "LEDChaos",
+			"path": "Projects/LEDChaos"
+		},
+		{
+			"name": "WriteToSerial",
+			"path": "Projects/WriteToSerial"
+		},
+		{
+			"name": "ReadInputFromButtons",
+			"path": "Projects/ReadInputFromButtons"
+		},
+		{
+			"name": "CPointers",
+			"path": "Projects/CPointers"
+		},
+		{
+			"name": "InterruptsAndButtons",
+			"path": "Projects/InterruptsAndButtons"
+		},
+		{
+			"name": "SimonSays",
+			"path": "Projects/SimonSays"
+		},
+		{
+			"name": "MorseCode",
+			"path": "Projects/MorseCode"
+		},
+		{
+			"name": "Potentiometer",
+			"path": "Projects/Potentiometer"
+		},
+		{
+			"name": "DisplayLibDemo",
+			"path": "Projects/DisplayLibDemo"
+		},
+		{
+			"name": "PotentioMeterInterrupt",
+			"path": "Projects/PotentioMeterInterrupt"
+		},
+		{
+			"name": "StringOef",
+			"path": "Projects/StringOef"
+		},
+		{
+			"name": "C_PointerOef",
+			"path": "Projects/C_PointerOef"
+		},
+		{
+			"name": "ScrollingNumbers",
+			"path": "Projects/ScrollingNumbers"
+		},
+		{
+			"name": "playMusic",
+			"path": "Projects/playMusic"
+		},
+		{
+			"name": "Cstructures",
+			"path": "../OneDrive - Karel de Grote Hogeschool/Documents/PlatformIO/Projects/Cstructures"
+		},
+		{
+			"name": "Synthesizer",
+			"path": "Projects/Synthesizer"
+		},
+		{
+			"name": "SimonSaysWeeklyProject",
+			"path": "Projects/SimonSaysWeeklyProject"
+		},
+		{
+			"name": "Timer",
+			"path": "Projects/Timer"
+		},
+		{
+			"name": "c_geheugenmanagement-master",
+			"path": "Projects/c_geheugenmanagement-master"
+		},
+		{
+			"name": "read_input_from_buttons_with_macros-master",
+			"path": "Projects/read_input_from_buttons_with_macros-master"
+		},
+		{
+			"name": "NimWeeklyProject",
+			"path": "Projects/NimWeeklyProject"
+		},
+		{
+			"name": "SpaceX HLS 1.0",
+			"path": "Projects/SpaceX HLS 1.0"
+		},
+		{
+			"name": "SpaceXWeeklyProject",
+			"path": "Projects/SpaceXWeeklyProject"
+		},
+		{
+			"name": "ReactieSnelheidsMeter",
+			"path": "Projects/ReactieSnelheidsMeter"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"led.h": "c",
+			"delay.h": "c",
+			"interrupt.h": "c",
+			"display.h": "c",
+			"stdio.h": "c",
+			"math.h": "c",
+			"io.h": "c"
+		}
+	}
+}
